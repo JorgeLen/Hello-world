@@ -1,7 +1,7 @@
 init -----------------Nuevo repositorio
 status----------------Muestra cambios que todavía no se han subido
 	• Si la rama actual está actualizada
-	• Si hay algo para confirmar, enviar o recibir (pull).
+	• Si hay algo para confirmar, enviar o recibir (pull)
 	• Si hay archivos en preparación (staged), sin preparación(unstaged) o que no están
 		recibiendo seguimiento (untracked)
 	• Si hay archivos creados, modificados o eliminados
@@ -11,4 +11,4 @@ commit -m-------------Guardar cambios ({"mensaje explicativo"})
 push------------------Envía los commits al repositorio remoto ({nombre} {rama})
 pull------------------Trae los cambios de Github
 log-------------------Historial de cambios
-clone-----------------Clona el proyecto
+clone-----------------Clona el proyecto ({URL}) .
